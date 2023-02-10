@@ -1,8 +1,8 @@
 ## Boas vindas ao meu perfil 😀
 
-Meu nome é Arthur Betinde de Andrade, tenho 26 anos e sempre fui apaixonado por tecnologia e videogames. Recentemente após uma mudança de carreira decidi investir na minha paixão e me jogar no mercado tech! 😎
+Meu nome é Arthur Betine de de Andrade, tenho 26 anos e sempre fui apaixonado por tecnologia e videogames. Recentemente, após uma mudança de carreira, decidi investir na minha paixão e me jogar no mercado tech! 😎
 
-Gosto muito da área mobile e também de Clud services. Espero progredir e evoluir nas linguagens e rechear meu Github com eles logo!
+Gosto muito da área mobile e também de Cloud services. Espero progredir e evoluir nas linguagens e rechear meu Github com eles logo!
 
 <br>
 
